@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/vignesh/Documents/angularProjects/mlcLib/.git'
 let g:netrw_dirhist_2='/home/vignesh/.oh-my-zsh/custom/plugins'
 let g:netrw_dirhist_3='/home/vignesh/.oh-my-zsh/custom/themes/pure'
+let g:netrw_dirhist_4='/home/vignesh/.w3m'
+let g:netrw_dirhist_5='/home/vignesh/Documents/angularProjects/mlcLib/.firebase'
+let g:netrw_dirhist_6='/home/vignesh/.zprezto'
+let g:netrw_dirhist_7='/home/vignesh'
